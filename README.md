@@ -1,6 +1,6 @@
 # Book Recommender using LLM
 
-This project is based on a tutorial from JetBrains and leverages Large Language Models (LLMs) for book recommendations.
+This project is based on a tutorial from JetBrains(Dr. Jodie Burchell)  and leverages Large Language Models (LLMs) for book recommendations.
 
 ## Features
 - **Clean and Prep Text Data**: Preprocessing book descriptions and metadata.

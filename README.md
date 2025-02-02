@@ -9,6 +9,9 @@ This project is based on a tutorial from JetBrains(Dr. Jodie Burchell)  and leve
 - **Sentiment Analysis**: Understanding user reviews.
 - **Gradio Dashboard**: Interactive UI for recommendations.
 
+## Dataset
+https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata
+
 ## Installation & Usage
 Coming soon...
 
